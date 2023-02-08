@@ -1,0 +1,4 @@
+repository "cyberpath@CyberPath@cloud"
+  path "/"
+    br "/main"
+    co "/main"
